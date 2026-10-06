@@ -1,0 +1,14 @@
+D:\LTTQ\Quanlysinhvien\Quanlysinhvien\bin\Debug\net8.0\Quanlysinhvien.exe
+D:\LTTQ\Quanlysinhvien\Quanlysinhvien\bin\Debug\net8.0\Quanlysinhvien.deps.json
+D:\LTTQ\Quanlysinhvien\Quanlysinhvien\bin\Debug\net8.0\Quanlysinhvien.runtimeconfig.json
+D:\LTTQ\Quanlysinhvien\Quanlysinhvien\bin\Debug\net8.0\Quanlysinhvien.dll
+D:\LTTQ\Quanlysinhvien\Quanlysinhvien\bin\Debug\net8.0\Quanlysinhvien.pdb
+D:\LTTQ\Quanlysinhvien\Quanlysinhvien\obj\Debug\net8.0\Quanlysinhvien.GeneratedMSBuildEditorConfig.editorconfig
+D:\LTTQ\Quanlysinhvien\Quanlysinhvien\obj\Debug\net8.0\Quanlysinhvien.AssemblyInfoInputs.cache
+D:\LTTQ\Quanlysinhvien\Quanlysinhvien\obj\Debug\net8.0\Quanlysinhvien.AssemblyInfo.cs
+D:\LTTQ\Quanlysinhvien\Quanlysinhvien\obj\Debug\net8.0\Quanlysinhvien.csproj.CoreCompileInputs.cache
+D:\LTTQ\Quanlysinhvien\Quanlysinhvien\obj\Debug\net8.0\Quanlysinhvien.dll
+D:\LTTQ\Quanlysinhvien\Quanlysinhvien\obj\Debug\net8.0\refint\Quanlysinhvien.dll
+D:\LTTQ\Quanlysinhvien\Quanlysinhvien\obj\Debug\net8.0\Quanlysinhvien.pdb
+D:\LTTQ\Quanlysinhvien\Quanlysinhvien\obj\Debug\net8.0\Quanlysinhvien.genruntimeconfig.cache
+D:\LTTQ\Quanlysinhvien\Quanlysinhvien\obj\Debug\net8.0\ref\Quanlysinhvien.dll
